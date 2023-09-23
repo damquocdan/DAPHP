@@ -32,7 +32,7 @@
                 <a class="nav-link fs-4" href="#">Liên hệ</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link fs-4" href="#">Đăng nhập/ Đăng ký</a>
+                <a class="nav-link fs-4" href="./dangky.php">Đăng nhập/ Đăng ký</a>
               </li>
             </ul>
           </div>
